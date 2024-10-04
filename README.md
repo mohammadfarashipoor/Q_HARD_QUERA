@@ -6,6 +6,6 @@ Let's go...
 
 | Name  | Label | Contest Name  | Difficulty |
 | ------------- | ------------- | ------------- | ------------- |
-| [Timer Reactii](https://github.com/mohammadfarashipoor/Q_HARD_QUERA/Timer_Reactii)  | `Front End`  | $${\color{yellow}Olympics}$$  | $${\color{red}Hard}$$ |
+| [Timer Reactii](https://github.com/mohammadfarashipoor/Q_HARD_QUERA/tree/main/Timer%20Reactii)  | `Front End`  | $${\color{yellow}Olympics}$$  | $${\color{red}Hard}$$ |
 
 
