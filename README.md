@@ -1,0 +1,1 @@
+# Q_HARD_QUERA
